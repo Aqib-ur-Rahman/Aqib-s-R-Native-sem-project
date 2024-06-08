@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479380821305",
+    "project_id": "smsproject-34727",
+    "storage_bucket": "smsproject-34727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479380821305:android:b290ac3f6b25817af404e8",
+        "android_client_info": {
+          "package_name": "com.schoolmangsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrlQpwK8mKDAyMsdC3zjqAY5Cd3tm1io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
